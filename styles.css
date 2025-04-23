@@ -1,0 +1,16 @@
+
+#mainText {
+  color: black;
+  font-size: 24px;
+  transition: all 0.3s ease;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+#newElement {
+  margin-top: 10px;
+  color: blue;
+}
